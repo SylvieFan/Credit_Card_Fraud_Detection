@@ -1,3 +1,4 @@
 # Credit_Card_Fraud_Detection
 
-It's a project I did to detect credit card transaction fraud among over 2000 transactions.
+Predicted fraudulent card transactions by trying models including logistic regression, neural network, random forest, and
+boosted trees, catching about 62.4% of frauds by declining 3% of the transactions
